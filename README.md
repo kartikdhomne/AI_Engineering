@@ -105,6 +105,15 @@ AI_ENGINEERING_TRACK
 - JSON
 - Async Programming
 
+# 📈 Steps
+
+- Go to folder
+- uv init day(xyz)
+- go to cd day(xyz)
+- uv venv (virtual environment) --python (current version)
+- .\.venv\Scripts\activate.ps1
+- python (file_name)
+
 ---
 
 ## ✅ Phase 2 — LLM Basics
