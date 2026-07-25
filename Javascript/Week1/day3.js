@@ -2,7 +2,7 @@ import dotenv from "dotenv";
 import Groq from "groq-sdk";
 
 dotenv.config({
-    path: "../../../.env",
+    path: "../../.env",
 });
 
 const apiKey = process.env.GROQ_API_KEY;
